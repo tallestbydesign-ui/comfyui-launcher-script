@@ -1,7 +1,9 @@
 # comfyui-launcher-script
 A simple script that diffuse-generate the name of ComfyUI at launch of a ComfyUI-portable installation
 
-https://github.com/user-attachments/assets/63cc5625-ab61-4e73-9700-d400581d65d5
+
+https://github.com/user-attachments/assets/eb666709-d660-44f2-8996-11fa0f96c924
+
 
 <img width="1214" height="458" alt="image" src="https://github.com/user-attachments/assets/2a2f91cc-7e78-4d48-bf4d-1a9eeb1da2fb" />
 
